@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<songs>
+<song dateplayed ="2014-07-24 19:35:21">
+	<title> Together Again </title>
+	<artist> Dave Koz</artist>
+	<genre> Jazz</genre>
+	</song>
+<song dateplayed ="2014-07-24 19:40:29">
+	<title> Laguku </title>
+	<artist> Ungu </artist>
+	<genre> Pop </genre>
+	</song>
+<song dateplayed ="2014-07-24 19:45:22">
+	<title> Melayang</title>
+	<artist> Ungu </artist>
+	<genre> Pop</genre>
+	</song>
+<song dateplayed ="2014-07-24 19:50:28">
+	<title> Jibaku</title>
+	<artist> Seventeen</artist>
+	<genre> Pop</genre>
+	</song>
+<song dateplayed ="2014-07-24 19:55:23">
+	<title> Separuh Aku</title>
+	<artist> Noah</artist>
+	<genre> Pop</genre>
+	</song>
+	</songs>

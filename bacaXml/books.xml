@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<books>
+    <book>
+        <author>Christoper Cosentino</author>
+        <title>Advanced PHP for Web Professionals</title>
+        <publisher>Prentice Hall PTR</publisher>
+    </book>
+    <book>
+        <author>Leon Atkinson</author>
+        <title>Core PHP Programming, Third Edition</title>
+        <publisher>Prentice Hall PTR</publisher>
+    </book>
+    <book>
+        <author>Jasom Gillmore</author>
+        <title>Beginning PHP and MySQL</title>
+        <publisher>Appress</publisher>
+    </book>
+</books>
